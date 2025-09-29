@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Dream Vacation: Lakshadweep</title>
+  <style>
+    body { font-family: "Segoe UI", Tahoma, sans-serif; background: #fffaf0; margin: 20px; color: #05386b; }
+    header { text-align: center; }
+    h1 { font-family: "Georgia", cursive; color: #026873; }
+    .container { max-width: 900px; margin: 0 auto; background: #ffffffcc; padding: 18px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    img.responsive { max-width: 100%; height: auto; border-radius: 6px; display: block; margin: 10px 0; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+    th, td { border: 1px solid #cfe8e6; padding: 10px; text-align: left; }
+    th { background: #d6f0ee; }
+    a { color: #016064; text-decoration: underline; }
+    .credits { font-size: 0.9rem; color: #444; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>My Dream Vacation: Lakshadweep</h1>
+      <p><em>An island paradise of coral atolls, white sands, and blue lagoons.</em></p>
+    </header>
+
+    <section>
+      <h2>Why I Chose Lakshadweep</h2>
+      <p>
+        Lakshadweep is a small archipelago off India's southwest coast famous for clear turquoise water, coral reefs and calm lagoons.
+        I chose it because it looks peaceful and perfect for water activities like snorkelling and scuba diving — a nice break from busy city life.
+      </p>
+
+      <h2>Interesting Facts & Activities</h2>
+      <p>
+        The islands are known for their rich marine life and coral reefs. Popular activities include snorkelling, scuba diving, glass-bottom boat rides, and relaxing on quiet beaches.
+        Some islands with visitor facilities are Agatti, Kavaratti, Minicoy and Kadmat. For more official information, you can read about Lakshadweep online. 
+        <a href="https://en.wikipedia.org/wiki/Lakshadweep" target="_blank" rel="noopener">Learn more about Lakshadweep (Wikipedia)</a>.
+      </p>
+
+      <figure>
+        <img class="responsive" src="images/kavaratti-beach.jpg" alt="Pristine beach and lagoon of Kavaratti, Lakshadweep" />
+        <figcaption class="credits">A typical Lakshadweep lagoon/beach (replace with your image file)</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2>Quick Facts</h2>
+      <table>
+        <tr>
+          <th>Best Time to
